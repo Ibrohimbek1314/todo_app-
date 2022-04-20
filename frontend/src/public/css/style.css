@@ -1,0 +1,20 @@
+.container {
+    /* display: flex; */
+    margin: 0 auto;
+    width: 1000px;
+    /* border: 1px solid black; */
+}
+
+#logOut {
+    justify-content: center;
+    align-items: flex-end;
+    margin-left: 85%;
+    width: 100px;
+    height: 35px;
+    border-radius: 0;
+    border-width: 0ch;
+}
+
+ul {
+    list-style-type: none;
+}

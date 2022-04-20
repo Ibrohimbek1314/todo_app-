@@ -1,0 +1,41 @@
+[
+    {
+        "userId": 1,
+        "username": "abdinazarov17",
+        "password": "Qwe456&*(",
+        "gender": "male",
+        "birthday": 98765465465465470
+    },
+    {
+        "userId": 2,
+        "username": "kabulov23bdinazarov17",
+        "password": "(*&654ewQ",
+        "gender": "male",
+        "birthday": 98765465465464660
+    },
+    {
+        "userId": 3,
+        "username": "aliyeva1",
+        "password": "Q!W@E#r4t5y6",
+        "gender": "female",
+        "birthday": 98765465465987650
+    },
+    {
+        "userId": 4,
+        "username": "tank",
+        "password": "sadfsdaf$4R",
+        "gender": "male"
+    },
+    {
+        "userId": 5,
+        "username": "tank",
+        "password": "sadfsdaf$4R",
+        "gender": "male"
+    },
+    {
+        "userId": 6,
+        "username": "wonder",
+        "password": "afsdfdsfsd$4R",
+        "gender": "male"
+    }
+]

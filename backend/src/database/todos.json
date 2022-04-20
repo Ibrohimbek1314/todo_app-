@@ -1,0 +1,72 @@
+[
+    {
+        "userId": 1,
+        "todoId": 984521,
+        "status": "done",
+        "title": "Backend",
+        "text": "Backend uchun server yozish"
+    },
+    {
+        "userId": 1,
+        "todoId": 984652,
+        "status": "done",
+        "title": "Database tuzish",
+        "text": "Strukturasi to'g'ri databse tuzish"
+    },
+    {
+        "userId": 1,
+        "todoId": 156252,
+        "status": "todo",
+        "title": "Html",
+        "text": "HTML tuzish"
+    },
+    {
+        "userId": 2,
+        "todoId": 415263,
+        "status": "done",
+        "title": "Http server",
+        "text": "Adsksjhfkasdf klsahgdf"
+    },
+    {
+        "userId": 3,
+        "todoId": 230183,
+        "status": "done",
+        "title": "lesson",
+        "text": "Doing homework"
+    },
+    {
+        "userId": "1",
+        "todoId": 772378,
+        "status": "doing",
+        "title": "Http server",
+        "text": "Adsksjhfkasdf klsahgdf"
+    },
+    {
+        "userId": "1",
+        "todoId": 24048,
+        "status": "done",
+        "title": "asdf",
+        "text": "asdfdfg"
+    },
+    {
+        "userId": "1",
+        "todoId": 206002,
+        "status": "doing",
+        "title": "dFSASDF",
+        "text": "SDFGFDG"
+    },
+    {
+        "userId": "1",
+        "todoId": 413032,
+        "status": "todo",
+        "title": "football",
+        "text": "champions"
+    },
+    {
+        "userId": "1",
+        "todoId": 289626,
+        "status": "todo",
+        "title": "qw",
+        "text": "qwerewqr"
+    }
+]
